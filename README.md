@@ -18,14 +18,16 @@ A simple and clean homepage to showcase a collection of beginner-friendly front-
 ---
 
 ## 💻 Screenshots
-
-<img src="https://github.com/priyankamohole/JS-Projects/blob/b3884d5fc9b88ca17f83fc374124fc4897230e07/1-ColorChanger/image.png" width=600>
-
-<img src="https://github.com/priyankamohole/JS-Projects/blob/b3a5332316ad9ece56520c50f374f10d3348ccb5/2-BMICalculator/image.png" width=600>
-
+###UI
+<img src="./image.png" width=600>
+### Color Changer
+<img src="./1-ColorChanger/image.png" width=600>
+### BMI Calculator
+<img src="./2-BMICalculator/image.png" width=600>
+### Digital Clock
 <img src="./3-DigitalClock/image.png" width=600>
-
-<img src="" width=600>
+### Guess The Number
+<img src="./4-GuessTheNumber\image.png" width=600>
 
 
 🔗 Or visit my [GitHub Profile](https://github.com/priyankamohole) for updates.
