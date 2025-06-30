@@ -18,15 +18,25 @@ A simple and clean homepage to showcase a collection of beginner-friendly front-
 ---
 
 ## 💻 Screenshots
-###UI
+
+UI
+
 <img src="./image.png" width=600>
-### Color Changer
+
+ Color Changer
+
 <img src="./1-ColorChanger/image.png" width=600>
-### BMI Calculator
+
+ BMI Calculator
+
 <img src="./2-BMICalculator/image.png" width=600>
-### Digital Clock
+
+Digital Clock
+
 <img src="./3-DigitalClock/image.png" width=600>
-### Guess The Number
+
+ Guess The Number
+
 <img src="./4-GuessTheNumber\image.png" width=600>
 
 
