@@ -17,9 +17,13 @@ A simple and clean homepage to showcase a collection of beginner-friendly front-
 
 ---
 
-## 💻 Live Preview
+## 💻 Screenshots
+<img src="" width=600>
+<img src="" width=600>
+<img src="" width=600>
+<img src="" width=600>
 
-You can view the homepage by opening `index.html` in any browser.  
+
 🔗 Or visit my [GitHub Profile](https://github.com/priyankamohole) for updates.
 
 ---
