@@ -18,9 +18,13 @@ A simple and clean homepage to showcase a collection of beginner-friendly front-
 ---
 
 ## 💻 Screenshots
-<img src="" width=600>
-<img src="" width=600>
-<img src="" width=600>
+
+<img src="https://github.com/priyankamohole/JS-Projects/blob/b3884d5fc9b88ca17f83fc374124fc4897230e07/1-ColorChanger/image.png" width=600>
+
+<img src="https://github.com/priyankamohole/JS-Projects/blob/b3a5332316ad9ece56520c50f374f10d3348ccb5/2-BMICalculator/image.png" width=600>
+
+<img src="./3-DigitalClock/image.png" width=600>
+
 <img src="" width=600>
 
 
